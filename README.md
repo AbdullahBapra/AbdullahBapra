@@ -82,12 +82,4 @@ I build web & app experiences that don’t just work — they think, act, and cr
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahbapra&show_icons=true&locale=en&layout=compact" />
-</p>
-
----
-
 ⭐ *If you like my work, consider starring a repo or connecting — let’s build something impactful together.*
