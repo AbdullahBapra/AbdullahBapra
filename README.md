@@ -39,7 +39,7 @@ I build web & app experiences that don’t just work — they think, act, and cr
 
 ## 📫 How to Reach Me
 
-- 📧 Email: **abdullahfaheem748@gmail.com**
+- 📧 Email: **abdullahfaheem748@gmail.com**  
 
 ---
 
@@ -54,6 +54,9 @@ I build web & app experiences that don’t just work — they think, act, and cr
   </a>
   <a href="https://instagram.com/abdullahfaheem.ai" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+  <a href="https://abdullah-faheem.vercel.app/" target="_blank">
+    🌐 My Website
   </a>
 </p>
 
