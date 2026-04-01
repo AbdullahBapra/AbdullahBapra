@@ -51,55 +51,6 @@ const abdullah = {
 
 ---
 
-## ⚡ What Sets Me Apart
-
-```
- ┌─────────────────────────────────────────────────────────────────────┐
- │  🧠  AI-First Mindset   →  Every product I build considers AI       │
- │  ⚙️  Scalability Focus  →  Built for production, not just demos      │
- │  🔗  Full-Stack Depth   →  Pixel-perfect UI to robust API design     │
- │  🤖  Agentic Thinking   →  Systems that plan, use tools & execute    │
- └─────────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🔭 Currently Mastering
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🤖 AI & Agentic Systems**
-
-```
-▸ Agentic workflows (Plan → Tools → Execute)
-▸ LLM orchestration & system design
-▸ Multi-agent coordination pipelines
-▸ Prompt engineering & optimization
-▸ Production-grade AI integrations
-▸ RAG systems & vector databases
-```
-
-</td>
-<td width="50%" valign="top">
-
-**⚙️ Engineering & Architecture**
-
-```
-▸ Scalable microservices & serverless
-▸ Real-time systems with WebSockets
-▸ Event-driven architecture & queues
-▸ CI/CD pipelines & DevOps basics
-▸ Performance optimization patterns
-▸ Distributed system design principles
-```
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🛠️ Full Tech Arsenal
 
@@ -160,46 +111,8 @@ const abdullah = {
 
 </div>
 
----
 
-## 📈 Contribution Graph
 
-<div align="center">
-
-[![Abdullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullahfaheem&bg_color=0a0a0f&color=00d9ff&line=a78bfa&point=e2e8f0&area=true&area_color=a78bfa&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 💬 Ask Me About
-
-```
- ╔══════════════════════╦═══════════════════════════════════════════════╗
- ║  Domain              ║  Topics                                       ║
- ╠══════════════════════╬═══════════════════════════════════════════════╣
- ║  🔷 Full-Stack       ║  MERN, REST APIs, Auth, Real-time Apps        ║
- ║  ⚛️  React           ║  Architecture, Performance, State Mgmt        ║
- ║  🤖 AI Integration   ║  Chatbots, LLM APIs, Prompt Engineering       ║
- ║  🧩 Agentic AI       ║  Multi-agent, Tool-use, Orchestration         ║
- ║  📱 Mobile           ║  React Native, Cross-platform Apps            ║
- ║  🚀 Deployment       ║  Vercel, CI/CD, Scalability, Production       ║
- ╚══════════════════════╩═══════════════════════════════════════════════╝
-```
-
----
-
-## 🌐 The Mission
-
-```javascript
-while (alive) {
-  learn();          // absorb everything
-  build();          // create with purpose
-  ship();           // production or bust
-  impact();         // leave the world better
-  repeat();         // never stop
-}
-```
 
 ---
 
