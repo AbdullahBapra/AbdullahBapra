@@ -101,18 +101,6 @@ const abdullah = {
 
 </div>
 
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdullahfaheem&theme=darkhub&no-frame=true&no-bg=false&row=1&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-
-
 
 ---
 
