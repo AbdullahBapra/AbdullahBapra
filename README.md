@@ -86,13 +86,7 @@ const abdullah = {
 
 ---
 
-## 📊 GitHub Intelligence
-
-<div align="center">
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahfaheem&layout=compact&theme=merko&bg_color=0a0a0f&border_color=1e293b&title_color=00d9ff&text_color=64748b&hide_border=false&langs_count=8" />
-
-</div>
-
+## 📊 GitHub Intelligence 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=abdullahfaheem&theme=dark&background=0a0a0f&border=1e293b&ring=00d9ff&fire=a78bfa&currStreakLabel=00d9ff&sideLabels=64748b&currStreakNum=e2e8f0&sideNums=e2e8f0&hide_border=false)](https://git.io/streak-stats)
