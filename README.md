@@ -89,8 +89,6 @@ const abdullah = {
 ## 📊 GitHub Intelligence
 
 <div align="center">
-
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=abdullahfaheem&show_icons=true&theme=merko&bg_color=0a0a0f&border_color=1e293b&title_color=00d9ff&icon_color=a78bfa&text_color=64748b&hide_border=false&include_all_commits=true&count_private=true" />
 <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahfaheem&layout=compact&theme=merko&bg_color=0a0a0f&border_color=1e293b&title_color=00d9ff&text_color=64748b&hide_border=false&langs_count=8" />
 
 </div>
